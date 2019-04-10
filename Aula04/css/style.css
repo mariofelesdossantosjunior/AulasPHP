@@ -1,0 +1,32 @@
+body {
+    padding-top: 54px;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+    -o-background-size: cover; /* Opera */
+    -moz-background-size: cover; /* Mozilla */
+    -webkit-background-size: cover; /* Chrome */
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #343a40;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.small, small {
+    font-size: 55%;
+    font-weight: 400;
+}
