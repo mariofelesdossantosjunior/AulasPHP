@@ -33,9 +33,9 @@ while (!feof($recurso)) {
             <td>$data</td>
             <td>$nr</td> 
             <td>$historico</td>
-            <td>$valor</td>
+            <td>R$ $valor</td>
             <td>$tipo</td>
-            <td>$saldo</td>
+            <td>R$ " . number_format($saldo, 2, ',', '.') . "</td>
         </tbody>
     ";
 
@@ -56,7 +56,7 @@ echo "
 <th></th>
 <th></th>
 <th>Total</th>
-<th>$saldo</th>
+<th>R$ " . number_format($saldo, 2, ',', '.') . "</th>
 </tfoot>
 </table>
 </div>";
