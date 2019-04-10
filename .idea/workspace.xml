@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09b5bde3-85c1-469f-a169-f2176bfa8314" name="Default Changelist" comment="Implementação do desafio em sala">
-      <change afterPath="$PROJECT_DIR$/Aula03/funcoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/cabecalho.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/contato.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/meucss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/mycss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/css/template.cssw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/js/teste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/rodape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/sobre.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula05/arquivo_url.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula05/arquivos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula05/arquivos02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/arquivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/arquivos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/meucss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/mycss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/css/template.cssw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioArquivo/js/teste.js" afterDir="false" />
-    </list>
+    <list default="true" id="09b5bde3-85c1-469f-a169-f2176bfa8314" name="Default Changelist" comment="Implementação do desafio em sala" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +183,7 @@
             <path>
               <item name="AulasPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="AulasPHP" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula04" type="462c0819:PsiDirectoryNode" />
+              <item name="DesafioArquivo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AulasPHP" type="b2602c69:ProjectViewProjectNode" />
@@ -356,7 +287,7 @@
       <workItem from="1554244483966" duration="88000" />
       <workItem from="1554244593886" duration="4037000" />
       <workItem from="1554849256665" duration="2630000" />
-      <workItem from="1554921646031" duration="3282000" />
+      <workItem from="1554921646031" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="Mudanças Pastas">
       <created>1550619147681</created>
@@ -369,10 +300,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15135000" />
+    <option name="totallyTimeSpent" value="15289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14090909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

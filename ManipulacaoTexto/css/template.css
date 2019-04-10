@@ -1,0 +1,16 @@
+.topo, .footer {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    border-radius: 0 !important;
+}
+
+.conteudo {
+    margin-top: 25px;
+}
+
+.imagemFalsa {
+    height: 200px;
+    background: #aaa;
+}
