@@ -14,7 +14,7 @@
 
 <body>
 <div class="container" style="margin-top: 100px">
-    <h1>Erro de login</h1>
+    <h1>Usuário Bloqueado</h1>
 </div>
 </body>
 </html>
