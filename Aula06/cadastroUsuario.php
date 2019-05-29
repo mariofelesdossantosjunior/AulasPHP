@@ -3,6 +3,11 @@ if ($_POST) {
 
     require("conexao.php");
 
+    $nome = $_POST['nome'];
+    $email = $_POST['email'];
+    $senha = password_hash($_POST['senha'], PASSWORD_DEFAULT);
+    $observacao = $_POST['observacao'];
+
     //Prepare SQL
     $sql = "insert into usuario (nome, email, senha, obs) 
     values('{$nome}','{$email}','{$senha}','{$observacao}')" or die("Erro no sql do cadastro");
@@ -33,7 +38,7 @@ if ($_POST) {
             <label for="">Senha</label>
             <input type="text" name="senha" required><br>
             <label for="">Observação</label>
-            <input type="text" name="obs"><br><br>
+            <input type="text" name="observacao"><br><br>
             <input type="submit" value="Cadastrar">
             <input type="reset" value="Limpar">
         </form>
