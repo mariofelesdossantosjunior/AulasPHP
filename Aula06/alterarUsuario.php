@@ -1,4 +1,5 @@
 <?php
+include("menu.php");
 
 $usuario = recuperarusuario();
 
@@ -50,7 +51,6 @@ function updateUsuario($id)
         header("location: listagem.php");
     } else {
         echo "Não foi possivel alterar o usuário";
-
     }
 
     mysqli_close($conexao);
@@ -59,31 +59,43 @@ function updateUsuario($id)
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cadastro de Usuarios</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>My First PHP</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
 </head>
 
 <body>
-    <fieldset>
-        <h1>Cadastro de Usuario</h1>
+    <div class="container">
+        </br>
+        <h1 class="display-5">Editar Usuários</h1>
+        </br>
         <form action="" method="POST">
-            <label for="">Usuario</label>
-            <input type="text" name="nome" value="<?php echo $usuario['nome'] ?>" required><br>
-            <label for="">Email</label>
-            <input type="text" name="email" value="<?php echo $usuario['email'] ?>" required><br>
-            <label for="">Senha</label>
-            <input type="password" name="senha" required><br>
-            <label for="">Observação</label>
-            <input type="text" name="observacao" value="<?php echo $usuario['obs'] ?>"><br><br>
-            <input type="submit" value="Alterar" name="alterar">
-            <input type="reset" value="Limpar">
+            <div class="form-group">
+                <label for="">Usuario</label>
+                <input type="text" class="form-control" name="nome" value="<?php echo $usuario['nome'] ?>" required>
+            </div>
+            <div class="form-group">
+                <label for="">Email</label>
+                <input type="text" class="form-control" name="email" value="<?php echo $usuario['email'] ?>" required>
+            </div>
+            <div class="form-group">
+                <label for="">Senha</label>
+                <input type="password" class="form-control" name="senha" required>
+            </div>
+            <div class="form-group">
+                <label for="">Observação</label>
+                <input type="text" class="form-control" name="observacao" value="<?php echo $usuario['obs'] ?>">
+            </div>
+            <br><br>
+            <input type="submit" value="Alterar" name="alterar" class="btn btn-primary">
+            <input type="reset" value="Limpar" class="btn btn-danger">
         </form>
-    </fieldset>
+    </div>
 </body>
 
 </html>

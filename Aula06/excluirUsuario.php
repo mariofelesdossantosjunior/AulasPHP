@@ -14,7 +14,6 @@ if ($_GET) {
 
         mysqli_close($conexao);
 
-        echo "registro excluido com sucesso. </br>";
-        echo "<a href='listagem.php'>Voltar</a>";
+        header("Location: listagem.php");
     }
 }
