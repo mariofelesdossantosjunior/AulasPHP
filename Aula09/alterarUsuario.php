@@ -10,6 +10,7 @@ if (isset($_POST['atualizar'])) {
     $email = $_POST['email'];
     $observacao = $_POST['observacao'];
     $status = $_POST['status'];
+    
 
     $sql = "update usuario
                set nome       = '{$nome}',
@@ -65,7 +66,7 @@ if ($_GET['id']) {
         Senha: <input type="password" name="senha"><br>
         Observação:
         <textarea name="observacao" cols="60" rows="15"><?php echo $linha['observacao'] ?></textarea><br><br>
-        
+
         Ativo:Ativo
         <select name="status">
             <option value="1" <?= ($linha['status']) ? "selected" : "" ?>>Sim</option>

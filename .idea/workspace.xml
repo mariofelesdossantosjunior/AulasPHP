@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09b5bde3-85c1-469f-a169-f2176bfa8314" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/782f919d-5d86-4f5d-bfa0-715beacdedd6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/782f919d-5d86-4f5d-bfa0-715beacdedd6/storage_v2/_src_/database/ifpr.30cxAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/782f919d-5d86-4f5d-bfa0-715beacdedd6/storage_v2/_src_/database/ifpr.30cxAA/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd/alterarUsuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/bd/alterarUsuario.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +40,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Aula06/listagem.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="651">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -191,8 +187,8 @@
     </configuration>
     <list>
       <item itemvalue="PHP Script.index.php" />
-      <item itemvalue="PHP Web Page.Unnamed" />
       <item itemvalue="PHP Script.listagem.php" />
+      <item itemvalue="PHP Web Page.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -236,6 +232,7 @@
       <workItem from="1559677363166" duration="607000" />
       <workItem from="1559678996654" duration="194000" />
       <workItem from="1559686578029" duration="324000" />
+      <workItem from="1561500034568" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Mudanças Pastas">
       <created>1550619147681</created>
@@ -255,13 +252,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26883000" />
+    <option name="totallyTimeSpent" value="26896000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="26" width="1368" height="743" extended-state="6" />
+    <frame x="32" y="0" width="1335" height="769" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1689394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17171717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -569,8 +566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aula06/listagem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="651">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
