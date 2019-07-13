@@ -10,7 +10,7 @@ if (isset($_POST['atualizar'])) {
     $email = $_POST['email'];
     $observacao = $_POST['observacao'];
     $status = $_POST['status'];
-    
+
 
     $sql = "update usuario
                set nome       = '{$nome}',
