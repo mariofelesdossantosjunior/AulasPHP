@@ -1,5 +1,5 @@
 <?php
-include('../../controller/usuario/usuarioController.php');
+include("../../controller/usuarioController.php");
 
 $id = $_GET['id'];
 

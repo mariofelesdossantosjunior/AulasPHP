@@ -1,7 +1,5 @@
 <?php
-
-require("../../data/funcoes.php");
-
+require("funcoesController.php");
 
 /* Função responsavel por recuperar 
 os Usuarios do Banco */
@@ -57,16 +55,17 @@ if (isset($_POST['salvar'])) {
 }
 
 /* Função usada para recuperar os dados do Usuario */
-if ($_GET['id']) {
-
+if (isset($_GET['id'])) {
     $sql = "select * from usuario where id = " . $_GET['id'];
     $resultado = executaSQL($sql);
-
+    
     if (mysqli_num_rows($resultado) > 0) {
         $usuario = mysqli_fetch_assoc($resultado);
     } else {
         echo "Usuário não encontrado!";
     }
+}else{
+    $usuario = null;
 }
 
 /*Função respoonsavel por remover usuario*/
@@ -87,3 +86,4 @@ function deleteUsuario($id)
         }
     }
 }
+?>

@@ -3,22 +3,20 @@
 /**
  * Conecta na base de dados
  */
-include('data/conexao.php');
+require("funcoesController.php");
 
-$login = $_POST{
-'login'};
-$password = $_POST{
-'password'};
-$entrar = $_POST{
-'entrar'};
+if (isset($_POST)) {
 
-if (isset($conexao)) {
+    if (isset($_POST{'entrar'})) {
+        $login = $_POST{
+        'login'};
+        $password = $_POST{
+        'password'};
 
-    if (isset($entrar)) {
-        if (verificaUsuario($login, $password, $conexao)) {
+        if (verificaUsuario($login, $password)) {
+            echo 'Sucesso';
             header("location: view/menu/menu.php");
             createSession($login, $password);
-            //createCookie($login, $password);
         } else {
             header("location: view/login/erro.php");
         }
@@ -28,7 +26,7 @@ if (isset($conexao)) {
 /**
  * Verifica Login e Senha no banco
  */
-function verificaUsuario($login, $password, $conexao)
+function verificaUsuario($login, $password)
 {
     $sql = "select COUNT(id) as acessar from usuario 
                 WHERE 
@@ -36,7 +34,7 @@ function verificaUsuario($login, $password, $conexao)
                     AND 
                 senha = '{$password}';";
 
-    $resultado = mysqli_query($conexao, $sql) or die("Erro no sql de login.");
+    $resultado = executaSQL($sql);
     $data = mysqli_fetch_assoc($resultado);
 
     return $data['acessar'] != 0;
@@ -51,7 +49,6 @@ function createSession($login, $password)
 
     $_SESSION['login'] = $login;
     $_SESSION['password'] = $password;
-
 }
 
 

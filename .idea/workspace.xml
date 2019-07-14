@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09b5bde3-85c1-469f-a169-f2176bfa8314" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bd/alterarUsuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/bd/alterarUsuario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7f6ff4c-4684-4bb2-9cc6-4ac0d7ef7838.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula09/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Aula09/conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/dataSources/c7bc38b6-e13e-4f39-943f-c82c391e51de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/trabalho-final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/controller/login/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/controller/login/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/controller/login/sessao.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/controller/usuario/usuarioController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/meucss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/mycss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/css/template.cssw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/data/conexao.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/data/cookie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/data/funcoes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/js/teste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/base/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/base/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/login/erro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/menu/menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/usuario/editar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/usuario/excluir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalho-final/view/usuario/lista.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +90,18 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="trabalho: schema" type="ebfa3cd1:MariaImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -42,10 +109,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula06/listagem.php">
+        <entry file="file://$PROJECT_DIR$/Aula09/listagemUsuario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula09/alterarUsuario.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula09/cadastrarUsuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -93,6 +174,12 @@
         <option value="$PROJECT_DIR$/Aula06/conexao.php" />
         <option value="$PROJECT_DIR$/Aula06/listagem.php" />
         <option value="$PROJECT_DIR$/Aula06/cadastroUsuario.php" />
+        <option value="$PROJECT_DIR$/Aula09/conexao.php" />
+        <option value="$PROJECT_DIR$/trabalho-final/data/conexao.php" />
+        <option value="$PROJECT_DIR$/trabalho-final/data/funcoes.php" />
+        <option value="$PROJECT_DIR$/trabalho-final/index.php" />
+        <option value="$PROJECT_DIR$/trabalho-final/controller/usuario/usuarioController.php" />
+        <option value="$PROJECT_DIR$/trabalho-final/controller/login/login.php" />
       </list>
     </option>
   </component>
@@ -102,7 +189,6 @@
       <server host="localhost" id="a9b6ece8-87c0-4bd3-837d-948c1fa9d058" name="Apache" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="96" />
@@ -115,22 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AulasPHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AulasPHP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AulasPHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AulasPHP" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula06" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -139,7 +210,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trabalho-final" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -150,17 +222,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/prova/exercicio02" />
-      <recent name="$PROJECT_DIR$/prova" />
-      <recent name="$PROJECT_DIR$/DesafioArquivo" />
-      <recent name="$PROJECT_DIR$/Aula05" />
-      <recent name="$PROJECT_DIR$/Aula04" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/prova/exercicio01" />
       <recent name="$PROJECT_DIR$/Exercicios" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trabalho-final/controller/login" />
+      <recent name="$PROJECT_DIR$/prova/exercicio02" />
+      <recent name="$PROJECT_DIR$/prova" />
+      <recent name="$PROJECT_DIR$/DesafioArquivo" />
+      <recent name="$PROJECT_DIR$/Aula05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,6 +305,9 @@
       <workItem from="1559678996654" duration="194000" />
       <workItem from="1559686578029" duration="324000" />
       <workItem from="1561500034568" duration="13000" />
+      <workItem from="1563133931958" duration="1573000" />
+      <workItem from="1563135537800" duration="531000" />
+      <workItem from="1563137351019" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="Mudanças Pastas">
       <created>1550619147681</created>
@@ -252,17 +327,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26896000" />
+    <option name="totallyTimeSpent" value="29102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="0" width="1335" height="769" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1048" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17171717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12219851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6053963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.60033727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -274,10 +348,12 @@
       <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="14" visible="true" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.17878787" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.178762" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -311,72 +387,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Implementação de mascaras real" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/782f919d-5d86-4f5d-bfa0-715beacdedd6/console.sql" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/Aula04/teste.html" />
-    <entry file="file://$PROJECT_DIR$/Aula04/css/mycss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula04/contato.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula04/sobre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16882">
-          <caret line="734" column="9" selection-start-line="734" selection-start-column="9" selection-end-line="734" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula05/meu_arquivo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula04/css/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula04/js/teste.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula04/cabecalho.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/DesafioArquivo/arquivo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/DesafioArquivo/css/mycss.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula01/config.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-26-04-2019/Exercicio01.module" />
     <entry file="file://$PROJECT_DIR$/Aula05/arquivos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -425,34 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio_26_04_2019/Exercicio01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Extrato/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/ManipulacaoTexto/exercicio_01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/DesafioArquivo/arquivos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio_26_04_2019/Exercicio01.php" />
+    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Extrato/index.php" />
+    <entry file="file://$PROJECT_DIR$/Exercicios/ManipulacaoTexto/exercicio_01.php" />
+    <entry file="file://$PROJECT_DIR$/Exercicios/DesafioArquivo/arquivos.php" />
     <entry file="file://$PROJECT_DIR$/Aula03/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -474,82 +460,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Prova/exercicio1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova/exercicio01/Exercicio01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalho-php/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalho-php/cookie.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova/exercicio02/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalho-php/inicial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalho-php/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova/exercicio02/erro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova/exercicio02/bloqueado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Prova/exercicio2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova/exercicio02/inicial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d7f6ff4c-4684-4bb2-9cc6-4ac0d7ef7838/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Prova/exercicio1.php" />
+    <entry file="file://$PROJECT_DIR$/prova/exercicio01/Exercicio01.php" />
+    <entry file="file://$PROJECT_DIR$/trabalho-php/index.php" />
+    <entry file="file://$PROJECT_DIR$/trabalho-php/cookie.php" />
+    <entry file="file://$PROJECT_DIR$/prova/exercicio02/index.php" />
+    <entry file="file://$PROJECT_DIR$/trabalho-php/inicial.php" />
+    <entry file="file://$PROJECT_DIR$/trabalho-php/logout.php" />
+    <entry file="file://$PROJECT_DIR$/prova/exercicio02/erro.php" />
+    <entry file="file://$PROJECT_DIR$/prova/exercicio02/bloqueado.php" />
+    <entry file="file://$PROJECT_DIR$/Exercicios/Exercicio-Prova/exercicio2.php" />
+    <entry file="file://$PROJECT_DIR$/prova/exercicio02/inicial.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d7f6ff4c-4684-4bb2-9cc6-4ac0d7ef7838/console.sql" />
     <entry file="file://$PROJECT_DIR$/Aula06/conexao.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -566,8 +488,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aula06/listagem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/controller/login/sessao.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/controller/login/logout.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/view/base/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/view/base/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula09/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/data/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula09/funcoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/controller/login/funcoes.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1d9bdbee-2e38-49e5-80e3-cdaf00a0bc78/schema/trabalho/table/usuario">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="eb2eaf78-a3ea-4ebf-a6dd-1422bec3fee8">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1d9bdbee-2e38-49e5-80e3-cdaf00a0bc78/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/controller/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/data/funcoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/view/usuario/editar.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/view/usuario/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/view/usuario/excluir.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalho-final/controller/usuario/usuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula09/alterarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula09/cadastrarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula09/listagemUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,9 @@ if (session_status() !== PHP_SESSION_ACTIVE) {
 }
 
 /*Header*/
-include_once('../base/header.php');
+include_once("../base/header.php");
+/*NavBar*/
+include_once("../base/navbar.php");
 /*Footer*/
 include_once('../base/footer.php');
 ?>

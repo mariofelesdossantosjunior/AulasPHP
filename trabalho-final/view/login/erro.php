@@ -19,7 +19,7 @@
 </nav>
 <div class="container" style="margin-top: 100px">
     <h1>Usuário Senha / Invalido</h1>
-    <form class="form-inline" action="../../controller/login/logout.php">
+    <form class="form-inline" action="../../controller/logoutController.php">
         <button class="btn btn-danger my-2 my-sm-0" type="submit">Voltar</button>
     </form>
 </div>

@@ -1,6 +1,7 @@
 <?php
 /*Header*/
 include_once('../base/header.php');
+include_once('../base/navbar.php');
 ?>
 <div class="jumbotron text-center">
     <h1>Lista de Usuários</h1>
@@ -24,7 +25,7 @@ include_once('../base/header.php');
         <tbody>
 
             <?php
-            include("../../controller/usuario/usuarioController.php");
+            require("../../controller/usuarioController.php");
             $usuarios = getUsuarios();
 
             if (mysqli_num_rows($usuarios) > 0) :
