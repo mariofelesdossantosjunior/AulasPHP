@@ -29,7 +29,7 @@ if (isset($_POST['salvar'])) {
     $status = $_POST['status'];
     $observacao = $_POST['observacao'];
 
-    if (isset($id)) { //Altera Usuario
+    if (isset($id)) { //Altera cliente
         $sql = "update cliente set 
             nomefantasia    = '{$nomeFantasia}',
             razaosocial     = '{$razaoSocial}',
@@ -45,7 +45,7 @@ if (isset($_POST['salvar'])) {
             status          = {$status}
             where id        = {$id}";
         echo $sql;
-    } else { //Insere Usuario
+    } else { //Insere cliente
         $sql = "insert into cliente (
                 nomefantasia, razaosocial, tipocliente, 
                 cpfcnpj, email, telefone, endereco, cidade, 

@@ -2,16 +2,16 @@
 require("funcoesController.php");
 
 /* Função responsavel por recuperar 
-as Marcas do Banco */
-function getMarcas()
+os Categorias do Banco */
+function getCategorias()
 {
-    $sql = "select * from marca";
+    $sql = "select * from categoria";
     return executaSQL($sql);
 }
 
 
 /*Função responsavel por atualizar
-ou criar um nova Marca*/
+ou criar um nova Categoria*/
 if (isset($_POST['salvar'])) {
 
     $id = $_GET['id'];
@@ -19,14 +19,14 @@ if (isset($_POST['salvar'])) {
     $descricao = $_POST['descricao'];
     $status = $_POST['status'];
 
-    if (isset($id)) { //Altera marca
-        $sql = "update marca set 
+    if (isset($id)) { //Altera categoria
+        $sql = "update categoria set 
             descricao       = '{$descricao}',
             status          = {$status}
             where id        = {$id}";
         echo $sql;
-    } else { //Insere marca
-        $sql = "insert into marca (
+    } else { //Insere categoria
+        $sql = "insert into categoria (
                 descricao, status 
                 )values (
                 '{$descricao}', 
@@ -37,41 +37,41 @@ if (isset($_POST['salvar'])) {
     $resultado = executaSQL($sql);
 
     if ($resultado === TRUE) {
-        header("location: ../../view/marca/lista.php");
+        header("location: ../../view/categoria/lista.php");
     } else {
-        echo "Erro ao cadastrar Marca";
+        echo "Erro ao cadastrar categoria";
     }
 }
 
-/* Função usada para recuperar os dados do Marca */
+/* Função usada para recuperar os dados do categoria */
 if (isset($_GET['id'])) {
-    $sql = "select * from marca where id = " . $_GET['id'];
+    $sql = "select * from categoria where id = " . $_GET['id'];
     $resultado = executaSQL($sql);
     
     if (mysqli_num_rows($resultado) > 0) {
-        $marca = mysqli_fetch_assoc($resultado);
+        $categoria = mysqli_fetch_assoc($resultado);
     } else {
-        echo "Marca não encontrado!";
+        echo "categoria não encontrado!";
     }
 }else{
-    $marca = null;
+    $categoria = null;
 }
 
-/*Função respoonsavel por remover marca*/
-function deleteMarca($id)
+/*Função respoonsavel por remover categoria*/
+function deleteCategoria($id)
 {
     if (isset($id)) {
 
         //Prepara a SQL para excluir o registro
-        $sql = "delete from marca where id = " . $_GET['id'];
+        $sql = "delete from categoria where id = " . $_GET['id'];
 
         //Executa a SQL
         $resultado = executaSQL($sql);
 
         if ($resultado === TRUE) {
-            header("location: ../../view/marca/lista.php");
+            header("location: ../../view/categoria/lista.php");
         } else {
-            echo "Erro ao deletar Marca";
+            echo "Erro ao deletar categoria";
         }
     }
 }
