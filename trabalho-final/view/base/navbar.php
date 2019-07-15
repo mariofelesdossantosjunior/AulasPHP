@@ -15,7 +15,7 @@
                     <a class="dropdown-item" href="../usuario/lista.php">Usuário</a>
                     <a class="dropdown-item" href="../cliente/lista.php">Cliente</a>
                     <a class="dropdown-item" href="#">categoria</a>
-                    <a class="dropdown-item" href="#">Marca</a>
+                    <a class="dropdown-item" href="../marca/lista.php">Marca</a>
                     <a class="dropdown-item" href="#">Produto</a>
                 </div>
             </li>
