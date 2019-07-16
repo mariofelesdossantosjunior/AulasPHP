@@ -27,15 +27,15 @@ include("../../controller/clienteController.php");
             <div class="form-group col-md-2">
                 <label for="status">Status</label>
                 <select id="status" name="status" class="form-control" required>
-                    <option value="1" <?= ($cliente['status']) ? "selected" : "" ?>>Sim</option>
-                    <option value="0" <?= (!$cliente['status']) ? "selected" : "" ?>>Não</option>
+                    <option value="1" <?= ($cliente['status']) ? "selected" : "" ?>>Ativo</option>
+                    <option value="0" <?= (!$cliente['status']) ? "selected" : "" ?>>Inativo</option>
                 </select>
             </div>
             <div class="form-group col-md-2">
                 <label for="tipocliente">Tipo Cliente</label>
                 <select id="tipocliente" name="tipocliente" class="form-control" required>
-                    <option value="1" <?= ($cliente['tipocliente']) ? "selected" : "" ?>>Fisico</option>
-                    <option value="0" <?= (!$cliente['tipocliente']) ? "selected" : "" ?>>Juridico</option>
+                    <option value="1" <?= ($cliente['tipocliente']) ? "selected" : "" ?>>Física</option>
+                    <option value="0" <?= (!$cliente['tipocliente']) ? "selected" : "" ?>>Jurídica</option>
                 </select>
             </div>
         </div>

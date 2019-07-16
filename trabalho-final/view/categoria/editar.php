@@ -23,8 +23,8 @@ include("../../controller/categoriaController.php");
             <div class="form-group col-md-2">
                 <label for="status">Status</label>
                 <select id="status" name="status" class="form-control" required>
-                    <option value="1" <?= ($categoria['status']) ? "selected" : "" ?>>Sim</option>
-                    <option value="0" <?= (!$categoria['status']) ? "selected" : "" ?>>Não</option>
+                    <option value="1" <?= ($categoria['status']) ? "selected" : "" ?>>Ativo</option>
+                    <option value="0" <?= (!$categoria['status']) ? "selected" : "" ?>>Inativo</option>
                 </select>
             </div>
         </div>
