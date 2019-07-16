@@ -1,7 +1,12 @@
 <?php
+/*Sessao*/
+include('../../controller/sessaoController.php');
 /*Header*/
-include_once('../base/header.php');
-include_once('../base/navbar.php');
+include_once("../base/header.php");
+/*NavBar*/
+include_once("../base/navbar.php");
+/**Controller */
+require("../../controller/clienteController.php");
 ?>
 <div class="jumbotron text-center">
     <h1>Lista de Clientes</h1>
@@ -32,7 +37,6 @@ include_once('../base/navbar.php');
         <tbody>
 
             <?php
-            require("../../controller/clienteController.php");
             $clientes = getClientes();
 
             if (mysqli_num_rows($clientes) > 0) :

@@ -9,10 +9,10 @@ include_once("./view/base/header.php");
         <img class="mb-4 text" src="images/logo.png" alt="Logo">
         <h1 class="h3 mb-3 font-weight-normal">Trabalho PHP</h1>
         <div class="form-group">
-            <input type="text" class="form-control" id="login" placeholder="Login" name="login">
+            <input type="text" class="form-control" id="login" placeholder="Login" name="login" value="admin">
         </div>
         <div class="form-group">
-            <input type="password" class="form-control" id="password" placeholder="Senha" name="password">
+            <input type="password" class="form-control" id="password" placeholder="Senha" name="password" value="123">
         </div>
         <button type="submit" class="btn btn-lg btn-primary btn-block" id="entrar" name="entrar">Entrar</button>
     </form>

@@ -1,7 +1,12 @@
 <?php
+/*Sessao*/
+include('../../controller/sessaoController.php');
 /*Header*/
-include_once('../base/header.php');
-include_once('../base/navbar.php');
+include_once("../base/header.php");
+/*NavBar*/
+include_once("../base/navbar.php");
+/**Controller */
+require("../../controller/marcaController.php");
 ?>
 <div class="jumbotron text-center">
     <h1>Lista de Marcas</h1>
@@ -22,7 +27,6 @@ include_once('../base/navbar.php');
         <tbody>
 
             <?php
-            require("../../controller/marcaController.php");
             $marcas = getMarcas();
 
             if (mysqli_num_rows($marcas) > 0) :

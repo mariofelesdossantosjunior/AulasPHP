@@ -1,4 +1,8 @@
 <?php
+
+/**
+ * Função responsavel por verificar se tem usuario na sessao
+ */
 if (session_status() !== PHP_SESSION_ACTIVE) {
     session_start();
 
@@ -6,4 +10,3 @@ if (session_status() !== PHP_SESSION_ACTIVE) {
         header("location: ../../index.php");
     }
 }
-?>

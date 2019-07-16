@@ -1,7 +1,12 @@
 <?php
+/*Sessao*/
+include('../../controller/sessaoController.php');
 /*Header*/
-include_once('../base/header.php');
-include_once('../base/navbar.php');
+include_once("../base/header.php");
+/*NavBar*/
+include_once("../base/navbar.php");
+/**Controller */
+require("../../controller/categoriaController.php");
 ?>
 <div class="jumbotron text-center">
     <h1>Lista de Categorias</h1>
@@ -22,7 +27,6 @@ include_once('../base/navbar.php');
         <tbody>
 
             <?php
-            require("../../controller/categoriaController.php");
             $categorias = getCategorias();
 
             if (mysqli_num_rows($categorias) > 0) :

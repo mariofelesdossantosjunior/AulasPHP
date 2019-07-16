@@ -1,7 +1,11 @@
 <?php
+/*Sessao*/
+include('../../controller/sessaoController.php');
 /*Header*/
 include_once("../base/header.php");
+/*NavBar*/
 include_once("../base/navbar.php");
+/**Controller */
 include("../../controller/usuarioController.php");
 ?>
 
