@@ -27,7 +27,7 @@ include("../../controller/unidadeMedidaController.php");
             </div>
             <div class="form-group col-md-2">
                 <label for="codigobarras">Codigo Barras</label>
-                <input type="text" name="codigobarras" id="codigobarras" class="form-control" placeholder="codigobarras" value="<?php echo $produto['codigobarras'] ?>">
+                <input type="number" name="codigobarras" id="codigobarras" class="form-control" placeholder="codigobarras" value="<?php echo $produto['codigobarras'] ?>">
             </div>
             <div class="form-group col-md-2">
                 <label for="unidade">Unidade</label>
